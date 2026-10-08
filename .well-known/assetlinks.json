@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.netlify.thecbtapp.twa",
+        "sha256_cert_fingerprints": ["A0:CA:76:7F:92:1F:81:94:AB:E1:1B:C1:57:85:27:D5:B9:26:29:FC:ED:07:85:F2:0F:12:4E:D6:8F:46:48:CF"]
+      }
+    }]
